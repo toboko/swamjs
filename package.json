@@ -1,0 +1,24 @@
+{
+  "name": "swamjs",
+  "version": "1.0.0",
+  "description": "porting swam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toboko/swamjs.git"
+  },
+  "keywords": [
+    "swam",
+    "parser",
+    "html"
+  ],
+  "author": "Nicola Bombaci",
+  "license": "AFL-3.0",
+  "bugs": {
+    "url": "https://github.com/toboko/swamjs/issues"
+  },
+  "homepage": "https://github.com/toboko/swamjs#readme"
+}
